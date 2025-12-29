@@ -1,5 +1,7 @@
-from manim import *
+# Problem 1 from the book Putnam and Beyond
+# Prove that sqrt(2) + sqrt(3) + sqrt(5) is irrational
 
+from manim import *
 
 class PutnamProblem1(Scene):
     def construct(self):
