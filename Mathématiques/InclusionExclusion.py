@@ -2,7 +2,7 @@
 
 from manim import *
 
-class introduction(Scene):
+class Introduction(Scene):
     def construct(self):
 
         self.next_section("Notations", skip_animations=False)
