@@ -72,3 +72,16 @@ The structure above is illustrative; actual directories depend on the projects i
 ## Contributing
 
 This is a personal learning and experimentation project. Suggestions, discussions, and ideas for future visualizations are welcome.
+
+
+## Gallery
+
+### Combinatorics
+
+| Vandermonde's Identity | Inclusion Exclusion Principle |
+|:---:|:---:|
+| ![Vandermonde](https://github.com/user-attachments/assets/49197c06-11c2-48aa-9031-d1d0acf02e47) | ![Inclusion Exclusion](https://github.com/user-attachments/assets/d11181ac-3e3b-4785-a462-4eadefcce161)|
+| A visual proof of Vandermonde's identity. | Inclusion Exclusion visualized using Venn diagrams.|
+
+
+
